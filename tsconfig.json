@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "es5",
+    "sourceMap": true,
+    "lib": [
+      "es6",
+      "dom",
+      "es2017"
+    ],
+    "declaration": true,
+    "declarationDir": "dist"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
